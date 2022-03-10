@@ -1,0 +1,82 @@
+
+
+
+			ASP.net framework - part of .net framework (.aspx pages)
+				can be developed only on windows OS (later you had for MAC)
+	
+				1. Needs windows Licence - Cost
+				2. Needs Visual Studio - enterprise - Cost
+				3. Hosting - Windows server only - Cost
+				4. ASP.net not for modern day application
+
+		Initial cost - 10 developers - 15-20 Lakhs (INR)
+------------------------------------------------------------------------------------------------------
+				on the other hand
+			1. Linux OS are free (Java, Angular, React etc...) -- Free
+			2. Sublime text, eclipse etc ------                -- Free
+			3. Hosting - Apache, Glassfish etc                 -- Free
+			4. Angular, React much advance feature
+	
+
+		-------------------- Thus Microsoft, re-wrote the entire framework
+				Develop any where, use anywhere - free of cost
+				1. Develop on any OS = Linux - Free
+			        2. Visual Studio Code - for all oS - Free
+				3. Host anywhere - free
+				4. Rewitten for modern web
+
+
+		
+
+
+			Which year you used internet 1st time ? -- Global Average 2007
+			Where did you use first time -- ? Home/Office/School/Cyber cafe
+			Source of Internet - Lan / telephone /(rarely wifi)
+			Purpose of internet during those days - general purpose
+			devise you used - desktop / laptop
+
+		ASP.net is very much suitable to meet the above requirements
+
+	---------- Web Has changed
+			Today when people start using internet for first time
+				they use internet everywhere on -  Mobile phone
+				Mosly only Mobile data
+				Use internet for eveything
+		
+		As most of the users has turned to devise (Mobile Phone, Tablets, Watches, IOT)
+		Resolution is differnt for every user - 50 users - 50 resolutions
+		habbits has changed asp.net does not suppoort them - Zoom in zoom out
+								   - Flip the devise 
+								   - Geo location - navigator(live)
+
+			asp.net is not developed to meet the above modern requirements
+		thus, asp.net core is a re-written framework to meet above requirement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+	

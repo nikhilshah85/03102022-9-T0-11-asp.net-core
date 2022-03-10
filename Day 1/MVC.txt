@@ -1,0 +1,33 @@
+VS code is the most powerful tool today
+	Git
+	Devops, docker, kubernetes, cloud, angular, Node, 1000+ utilities
+
+		very very powerful
+
+	--------------
+	Ready to jump to asp.net core
+
+		Web APP
+		Web API
+		They are based on MVC Design pattern 
+
+
+		M - Model(.cs) - This is the data part of application
+			CRUD operations, SP excutione, data formatting, data validation, calculation
+			Make a webAPI call and collect data
+			Entity Framework, ADO.net, in memory collection, data structure etc.. 
+		V - View(.cshtml) - This is the UI part of application
+				html, css, javascript, ajax calls, bootstrap, material,
+				angular, react etc, images, videos etc.
+		C - Controller(.cs) - collect and pass data between view and model
+				All the request are handled by controller
+				Authentication, encryption, session management etc..
+
+
+
+
+
+
+
+
+	
